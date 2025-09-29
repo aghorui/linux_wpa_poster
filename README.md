@@ -2,4 +2,6 @@
 
 Attributions: https://gist.github.com/aghorui/f794864514dd38d26bc09ca511b147dc
 
-![Poster Thumbnail](thumbnail.png)
+<a href="https://aghorui.github.io/stuff/docs/linux_kernel_poster.pdf">
+	<img src="thumbnail.png" alt="Poster Thumbnail" />
+</a>
